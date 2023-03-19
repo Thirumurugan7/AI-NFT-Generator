@@ -41,3 +41,6 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+<h1>Deployed link</h1>
+https://nft-generator-ai.netlify.app/
